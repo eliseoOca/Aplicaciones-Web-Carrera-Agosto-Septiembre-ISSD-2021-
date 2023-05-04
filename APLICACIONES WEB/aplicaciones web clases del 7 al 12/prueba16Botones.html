@@ -1,0 +1,23 @@
+<!DOCTYPE HTML >
+<html>
+<head>
+<title>Formulario2</title>
+</head>
+<body>
+<input type="text" pattern="^[azA-Z0-9.!#$%&'*+/=?^_`{|}~-]+@
+[a-zA-Z0-9-]+">
+<input type="email" name="email" required/>
+<input title="0.0.0.0" type="text" name="ipv4"/>
+<input type="text" id="referencia" 
+name="referencia" required pattern="[A-Z]{3}
+[0-9]{4}" title="El formato debe coincidir con 3 
+letras mayúsculas y 4 números."/>
+<form action="enviar.php">
+<label for="twitter">Usuario de Twitter: </
+label>
+<input type="text" pattern="^[A-Za-z0-9_]
+{1,15}$" name="twitter_account" id="twitter" />
+<input type="submit" value="Enviar" />
+</form>
+</body>
+</html>

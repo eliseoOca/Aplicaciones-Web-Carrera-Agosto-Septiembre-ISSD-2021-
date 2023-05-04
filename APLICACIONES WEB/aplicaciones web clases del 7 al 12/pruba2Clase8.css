@@ -1,0 +1,14 @@
+/**{
+	margin: 0;
+	padding: 0;
+}
+/*#ContenedorPadre*/
+:disabled{
+	outline:3px solid red;
+	}
+:enabled{
+	outline:3px solid deepsky blue;
+}
+:read-only{
+	background-color:rgb(0,204,102);
+}

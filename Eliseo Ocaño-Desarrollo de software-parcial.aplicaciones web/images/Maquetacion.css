@@ -1,0 +1,310 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+#contenedor{
+	width: 800px;
+	height: 1200px;
+	background: #000000;
+	margin: 0.4em auto;
+	padding: 0.3em;
+}
+
+#header{
+		height: 4%;
+		background: #000000;
+		 
+		margin: 0.1em;
+}
+
+#titulo{
+		
+		color:white;
+		font-family:serif;
+		font-style:normal;
+		font-weight:100;
+}
+
+#nuestrarevista{
+			text-align:justify;
+}
+#primero{
+	text-align:right;
+}
+#nav{
+	height: 20%;
+	background: #ffffff;
+	border-radius: 1em;
+	margin: 1em;
+}
+#contenido{
+			height:40%;
+			background:#FFFFFF;
+}
+
+#footer{
+		height:25%;
+		background:#000000;
+}
+.articulo6{
+		width: 18%;
+		height: 40%;
+		background: #000000;
+		margin: 1em;
+		border-radius: 1em;
+}
+.imgZapa{
+		width: 100%;
+		height: 100%;
+		
+}
+.articulo7{
+		position:absolute;
+		width:50px;
+		height: 50px;
+		top: 0px;
+		left:250px;
+		padding:5px;
+			
+}
+.Horo1{
+		width: 100%;
+		height: 100%;
+}
+.articulo8{
+		position:absolute;
+		width:50px;
+		height: 50px;
+		top: 0px;
+		left:300px;
+		padding:5px;
+			
+}
+.Horo2{
+		width: 100%;
+		height: 100%;
+}
+.articulo9{
+		position:absolute;
+		width:50px;
+		height: 50px;
+		top: 0px;
+		left:350px;
+		padding:5px;
+			
+}
+.Horo3{
+		width: 100%;
+		height: 100%;
+}
+.articulo10{
+		position:absolute;
+		width:50px;
+		height: 50px;
+		top: 56px;
+		left:250px;
+		padding:5px;
+			
+}
+.Horo4{
+		width: 100%;
+		height: 100%;
+}
+.articulo11{
+		position:absolute;
+		width:50px;
+		height: 50px;
+		top: 56px;
+		left:300px;
+		padding:5px;
+			
+}
+.Horo5{
+		width: 100%;
+		height: 100%;
+}
+.articulo12{
+		position:absolute;
+		width:50px;
+		height: 50px;
+		top: 56px;
+		left:350px;
+		padding:5px;
+			
+}
+.Horo6{
+		width: 100%;
+		height: 100%;
+}
+
+#section{
+		height: 120%;
+		width: 70%;
+		background: #FDFEFE;
+		float:left;
+
+}
+#aside{
+		height: 120%;
+		width: 30%;
+		background: #fdfefe;
+		float:right;
+
+}
+.Spon1{
+		position:absolute;
+		width:200px;
+		height: 200px;
+		top: 440px;
+		left:827px;
+		padding:5px;
+}
+.spon1{
+		width: 100%;
+		height: 100%;
+}
+.Spon2{
+		position:absolute;
+		width:100px;
+		height: 100px;
+		top: 645px;
+		left:827px;
+		padding:5px;
+}
+.spon2{
+		width: 100%;
+		height: 100%;
+}
+.Spon3{
+		position:absolute;
+		width:100px;
+		height: 100px;
+		top: 645px;
+		left:950px;
+		padding:5px;
+}
+.spon3{
+		width: 100%;
+		height: 100%;
+}
+.Spon4{
+		position:absolute;
+		width:100px;
+		height: 100px;
+		top: 747px;
+		left:827px;
+		padding:5px;
+}
+.spon4{
+		width: 100%;
+		height: 100%;
+}
+.Spon5{
+		position:absolute;
+		width:110px;
+		height: 110px;
+		top: 747px;
+		left:930px;
+		padding:5px;
+}
+.spon5{
+		width: 100%;
+		height: 100%;
+}
+.Spon6{
+		position:absolute;
+		width:105px;
+		height: 100px;
+		top: 860px;
+		left:827px;
+		padding:5px;
+}
+.spon6{
+		width: 100%;
+		height: 100%;
+}
+.Spon7{
+		position:absolute;
+		width:100px;
+		height: 100px;
+		top: 860px;
+		left:940px;
+		padding:5px;
+}
+.spon7{
+		width: 100%;
+		height: 100%;
+}
+
+.articulo{
+		width: 25%;
+		height: 15%;
+		background: #000000;
+		margin: 1em;
+		border-radius: 1em;
+		
+}
+.imgPies{
+		width:100%;
+		height:100%;
+		
+}
+.articulo2{
+		width: 25%;
+		height: 15%;
+		background: #000000;
+		margin: 1em;
+		border-radius: 1em;
+		float:center;
+}
+.imgPelo{
+		width:100%;
+		height:100%;
+}
+.articulo3{
+		width: 25%;
+		height: 15%;
+		background: #000000;
+		margin: 1em;
+		border-radius: 1em;
+	
+}
+.imgCara{
+		width:100%;
+		height:100%;
+}
+.articulo4{
+		width: 25%;
+		height: 15%;
+		background: #000000;
+		margin: 1em;
+		border-radius: 1em;
+		
+}
+.imgOjo{
+		width:100%;
+		height:100%;
+}
+.articulo5{
+		width: 25%;
+		height: 15%;
+		background: #000000;
+		margin: 1em;
+		border-radius: 1em;
+}
+.imgMaqui{
+		width:100%;
+		height:100%;
+}	
+#parrafo{
+		
+		font-family: monospace;
+		margin: 5px;
+		padding: 5px;
+		color: white;
+}
+.imagenNav{
+		width:100%;
+		height:100%;
+}

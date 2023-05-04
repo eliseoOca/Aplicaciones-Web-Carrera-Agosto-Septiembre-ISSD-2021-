@@ -1,0 +1,189 @@
+*{
+	margin: 0;
+	padding: 0;
+
+}
+
+#contenedor{
+	width: 1000px;
+	height: 1200px;
+	background: #D8D8D8;
+	margin: 0.5em auto;
+	padding: 0.5em;
+}
+
+#header{
+	height: 20%;
+	background: #A4A4A4;
+	margin: 0.1em;
+}
+.imagenHeader{
+		width: 100%;
+		height: 100%;
+}
+
+#nav{
+	height: 4%;
+	background: #424242;
+}
+
+#contenido{
+	height: 66%;
+	background: #FFFFFF;
+}
+
+#section{
+	height:100%;
+	width: 50%;
+	float: left;
+	background: linear-gradient(to  right, black , #660000 2% );
+}
+
+.espacio{
+	height: 22.1%;
+	width: 40%;
+}
+.imagenAside1{
+	width: 100%;
+	height: 60%;
+}
+.espacio1{
+	position: absolute;
+	width: 210px;
+	height: 160px;
+	top: 420px;
+	left: 200px;
+}
+
+.imagenAside2{
+	width: 100%;
+	height: 60%;
+		
+}
+
+.espacio2{
+	position: absolute;
+	width: 210px;
+	height: 160px;
+	top: 560px;
+	left: 200px;
+}
+
+.imagenAside3{
+	width: 100%;
+	height: 60%;	
+}
+
+.espacio3{
+	position: absolute;
+	width: 210px;
+	height: 160px;
+	top: 695px;
+	left: 200px;
+}
+
+.espacioF{
+	/*height: 33.8%;
+	width: 40%;
+	background: #424242;
+	float: down;*/
+	position:absolute;
+	width: 210px;
+	height: 260px;
+	top: 800px;
+	left: 200px;
+	background: #424242;
+}
+
+
+.espacio4{
+	position: absolute;
+	width: 150px;
+	height: 130px;
+	top: 330px;
+	left: 200px;
+}
+
+
+
+#aside{
+	height:100%;
+	width: 50%;
+	float: right;
+	background: linear-gradient(to  left, black , #660000 2% );
+}
+
+#footer{
+	height: 10%;
+	background: #330000;
+	margin: 0.1em;
+}
+
+.negrita{
+	font-family: serif;
+	font-weight: 400;
+	font-size: 20pt;
+}
+
+.espacioF{
+	background: #440000;
+	border-radius: 9px 9px 0px 0px; 
+}
+
+.form-registro{
+	width:100%;
+	border-radius:9px;
+	margin: auto;
+}
+
+.form-titulo{
+	background: #990000;
+	color: #fff;
+	padding: 10px;
+	border-radius: 9px 9px 0px 0px;
+	font: 150% sans-serif;
+}
+
+.contenedor-inputs{
+	padding: 30px 15px;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+}
+
+input{
+	margin-bottom: 15px;
+	padding: 5px;
+	border: 1px solid black;
+}
+
+.input-100{
+	width:100%
+	
+}
+.btn-enviar{
+	background: #990000;
+	color: #fff;
+	position: relative;
+	left: 135px;
+	cursor: pointer;
+}
+.btn-enviar:active{
+	transform: scale(1.05);
+}
+.form-link{
+	position: relative;
+	left: -70px;
+}
+
+.font-color{
+	color: #fff;
+}
+
+
+
+
+
+
+
+

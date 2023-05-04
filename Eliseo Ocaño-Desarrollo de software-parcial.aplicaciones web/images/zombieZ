@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="es">
+	<head>
+		<title>zombie</title>
+		<link rel="stylesheet" type="text/css" href="zombie.css">
+	</head>
+	<body>
+	<div id="contenedor2">
+					<img class="Z1" src="zombie1.png"> </article>
+					<img class="Z2" src="zombie2.jpg"> </article>
+					<img class="Z3" src="zombie3.jpg"> </article>
+					<img class="Z4" src="zombie4.jpg"> </article>
+					<img class="Z5" src="zombie5.jpg"> </article>
+					<img class="Z6" src="zombie6.jpg"> </article>
+					<img class="Z7" src="zombie7.jpg"> </article>
+					<img class="Z8" src="zombie8.jpg"> </article>
+					<img class="Z9" src="zombie9.jpg"> </article>
+					<img class="Z10" src="zombie10.jpg"> </article>
+					<img class="Z11" src="zombie11.png"> </article>
+					<img class="Z12" src="zombie12.jpg"> </article>
+					<img class="Z13" src="zombie13.jpg"> </article>
+					
+	</div>
+	</body>
+</html>

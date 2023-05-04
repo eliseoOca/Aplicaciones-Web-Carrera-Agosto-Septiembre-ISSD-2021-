@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="es">
+	<head>
+		<title>Maquetacion</title>
+		<meta charset="utf-8">
+		<link rel="stylesheet" type="text/css" href="Maquetacion.css">
+	</head>
+	<body>
+		<div id="contenedor">
+			<div id="header">header</div>
+			<div id="nav">nav</div>
+			<div id="contenido"></div>
+				<div id="section">section</div>
+				<div id="aside">aside</div>
+			</div>
+			<div id="footer"></div>
+		</div>
+	</body>
+</html>
